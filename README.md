@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @halilbilgekagan
-- 👀 I’m interested in video games and strategic things!
-- 🌱 I’m currently learning pyhton as an intermediate. Also new to learn java. 
-- 💞️ I’m looking to collaborate on learning code.
+- 👀 I’m interested in video games and artificial intelligence!
+- 🌱 I’m currently learning deep learning algorithms. Also curious about APIs. 
 - 📫 You can reach me on discord (iosvsandroid#7622)!
 
 <!---
