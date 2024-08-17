@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @halilbilgekagan
-- 👀 I’m interested in video games and artificial intelligence!
+- 👀 I’m interested in deep learning and artificial intelligence!
 - 🌱 I’m currently learning deep learning algorithms. Also curious about APIs. 
 - 📫 You can reach me on discord (iosvsandroid#7622)!
 
